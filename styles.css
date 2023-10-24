@@ -1,0 +1,47 @@
+body {
+  background-color: Linen;
+  
+}
+
+h1 {
+  color: maroon;
+  font-family:serif;
+  font-weight: bold;
+  text-align: center;
+  font-size: 25px;
+  border-style: solid;
+  text-align: center;
+}
+
+	
+h4 {
+	
+	font-size:20px;
+	color:goldenrod;
+	font-weight: 400;
+}
+
+p {
+  font-family: Arial;
+  font-size: 20px;
+  
+}
+.Acton {
+	border: 3px solid black;
+	padding: 2%;
+}
+
+.sheperd {
+	border: 3px solid black;
+	padding: 2%;
+}
+.hammersmith {
+	border: 3px solid black;
+	padding: 2%;
+}
+h1,h2,h3,h4 {
+	border-bottom: 4px solid black;
+	width:25;
+	max-width:300px;
+	min-width:150px;
+	text-align: center;
